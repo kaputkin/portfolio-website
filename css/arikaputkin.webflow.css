@@ -265,6 +265,21 @@ a {
   background-size: 1000px;
 }
 
+.image-container._13 {
+  margin: 0px;
+  padding: 0px;
+  background-image: url('../images/tx8-01.png');
+  background-position: -383px -389px;
+  background-size: 800px;
+  background-attachment: scroll;
+}
+
+.image-container._13:hover {
+  background-image: url('../images/tx3-01-01.png');
+  background-position: 50% -4%;
+  background-size: cover;
+}
+
 .column {
   padding-right: 0px;
   padding-left: 0px;
