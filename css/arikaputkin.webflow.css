@@ -295,6 +295,35 @@ a {
   background-size: cover;
 }
 
+.image-container._14 {
+  margin: 0px;
+  padding: 0px;
+  background-image: url('../images/18-Month-Trace.png');
+  background-position: 28% 68%;
+  background-size: 2809px;
+  background-attachment: scroll;
+}
+
+.image-container._14:hover {
+  background-position: 35% 99%;
+  background-size: 1209px;
+}
+
+.image-container._15 {
+  margin: 0px;
+  padding: 0px;
+  background-image: url('../images/NYC-Subway-Ridership-thumbnail.png');
+  background-position: 57% 75%;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+.image-container._15:hover {
+  background-position: 17% -1187px;
+  background-size: auto;
+  background-repeat: repeat-y;
+}
+
 .column {
   padding-right: 0px;
   padding-left: 0px;
@@ -560,6 +589,15 @@ a {
 
 .nav-menu {
   display: none;
+}
+
+.italic-text {
+  font-style: normal;
+}
+
+.row-2 {
+  margin-bottom: -49px;
+  padding-bottom: 43px;
 }
 
 @media (max-width: 767px) {
