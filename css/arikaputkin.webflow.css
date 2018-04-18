@@ -324,6 +324,19 @@ a {
   background-repeat: repeat-y;
 }
 
+.image-container._16 {
+  margin: 0px;
+  padding: 0px;
+  background-image: url('../images/hard-brakes-smol.png');
+  background-position: 45% 5%;
+  background-size: 992px;
+  background-attachment: scroll;
+}
+
+.image-container._16:hover {
+  background-size: cover;
+}
+
 .column {
   padding-right: 0px;
   padding-left: 0px;
